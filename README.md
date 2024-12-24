@@ -1,17 +1,15 @@
-👋 Hey there!
+## Hello! :D I'm kc9va
 
-I'm a second-year electronics undergrad – basically, I spend my days figuring out how all the blinky-lights-and-whirring-bits work. 
+I am an undergraduate student in electronics, currently focusing my studies on software development and machine learning. 
 
-Here's what's keeping me busy these days:
+In my free time, I enjoy exploring areas that complement my core focus:
 
-*   **Machine Learning Adventures:** ✨ I'm currently playing around with machine learning, trying to see if I can make computers do cool stuff – like teach them new tricks (and hopefully not create a robot apocalypse! 🤞). You might find some of my experiments popping up here soon.
-*   **Getting Down and Dirty with Hardware:** ⚙️ I've got a thing for the nitty-gritty bits of tech - you know, the kind you can actually touch! Embedded systems, microelectronics – it’s all fascinating to me. I'm all about exploring how we can make these little chips do some impressive work.
+Areas of Interest (Hobby)
+*   Embedded Systems: I am intrigued by the integration of hardware and software and love to tinker around low-level interactions. ⚙️
+*   Low-Level Programming: I also like exploring the fundamentals of computing systems, focusing on topics like operating systems. 🛠️
 
-**My Side Quests (aka Goals):**
-
-*   Level up my technical skills! 
-*   Make some cool, useful stuff with circuits and code. 🛠
-*   Find more cool tech peeps to geek out with! 
+I'll be implementing my learings and sharing my work here. :)
 
 
-Happy exploring! 
+
+
