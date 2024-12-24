@@ -1,6 +1,6 @@
 ## Hello! :D I'm Taha
 
-# I am an undergraduate student in electronics, currently focusing my studies on software development and machine learning. 
+### I am an undergraduate student in electronics, currently focusing my studies on software development and machine learning. 
 
 In my free time, I enjoy exploring areas that complement my core focus:
 
